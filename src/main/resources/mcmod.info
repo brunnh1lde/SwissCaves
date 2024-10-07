@@ -4,7 +4,7 @@
 		"modid": "${modId}",
 		"name": "${modName}",
 		"description": "Restoring the adventure of pre-1.7 "Swiss cheese" caves to The Update That Changed The World!",
-		"version": "${modVersion}",
+		"version": "1.0.0",
 		"mcversion": "${minecraftVersion}",
 		"url": "https://github.com/brunnh1lde/SwissCaves",
 		"updateUrl": "",
