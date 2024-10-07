@@ -1,12 +1,12 @@
 # SwissCaves
-[![](https://github.com/GTNewHorizons/ExampleMod1.7.10/actions/workflows/build-and-test.yml/badge.svg)](https://github.com/GTNewHorizons/ExampleMod1.7.10/actions/workflows/build-and-test.yml)
+[![](https://github.com/brunnh1lde/SwissCaves/actions/workflows/build-and-test.yml/badge.svg)](https://github.com/GTNewHorizons/ExampleMod1.7.10/actions/workflows/build-and-test.yml)
 
 Restoring the adventure of pre-1.7 "Swiss cheese" caves to The Update That Changed The World!
 
 ### Getting started
 
 To build this project:
-1. Ensure your project is under VCS. For example initialise git repository by running `git init; git commit --message "initialized repository"`.
+1. Ensure your project is under VCS
 2. Run `./gradlew build`
 3. You are good to go!
 
