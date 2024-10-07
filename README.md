@@ -1,5 +1,5 @@
 # SwissCaves
-[![](https://github.com/brunnh1lde/SwissCaves/actions/workflows/build-and-test.yml/badge.svg)](https://github.com/GTNewHorizons/ExampleMod1.7.10/actions/workflows/build-and-test.yml)
+[![](https://github.com/brunnh1lde/SwissCaves/actions/workflows/build-and-test.yml/badge.svg)](https://github.com/brunnh1lde/SwissCaves/actions/workflows/build-and-test.yml)
 
 Restoring the adventure of pre-1.7 "Swiss cheese" caves to The Update That Changed The World!
 
