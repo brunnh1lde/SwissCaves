@@ -3,7 +3,7 @@
 	"modList": [{
 		"modid": "swisscaves",
 		"name": "SwissCaves",
-		"description": "Restoring the adventure of pre-1.7 "Swiss cheese" caves to The Update That Changed The World!",
+		"description": "Restoring the adventure of pre-1.7 'Swiss cheese' caves to The Update That Changed The World!",
 		"version": "1.0.1",
 		"mcversion": "1.7.10",
 		"url": "https://github.com/brunnh1lde/SwissCaves",
