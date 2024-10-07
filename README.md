@@ -12,6 +12,6 @@ To build this project:
 
 ### Credits:
 
-> anatevka - for creating the mod icon
-> TheMasterCaver - for decompiling and comparing the 1.6.4 caves to 1.7.10 caves, allowing me to figure out what to modify alot easier.
-> GTNH developers - for creating the 1.7.10 example mod/build script
+anatevka - for creating the mod icon
+TheMasterCaver - for decompiling and comparing the 1.6.4 caves to 1.7.10 caves, allowing me to figure out what to modify alot easier.
+GTNH developers - for creating the 1.7.10 example mod/build script
