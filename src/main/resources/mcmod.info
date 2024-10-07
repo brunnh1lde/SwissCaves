@@ -10,10 +10,6 @@
 		"authorList": ["brunnh1lde"],
 		"credits": "anatevka, TheMasterCaver, GT:NH developers",
 		"logoFile": "assets/swisscaves/icon.png",
-		"parent": "",
-		"requiredMods": [],
-		"dependencies": [],
-		"dependants": [],
-		"useDependencyInformation": false
+		"requiredMods": ["unimixins"],
 	}]
 }
